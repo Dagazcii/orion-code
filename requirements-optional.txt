@@ -1,0 +1,3 @@
+# Opcionales: la TUI (orion --tui) y lectura de ORION.yaml.
+textual>=0.47
+pyyaml>=6.0
